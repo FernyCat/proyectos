@@ -1,0 +1,69 @@
+/* Cajas con contenido de color */
+
+.box-regist,
+.box-calif,
+.box-prim,
+.box-form,
+.box-pets {
+	margin:0 0 25px;
+	overflow:hidden;
+	padding:30px;
+	-webkit-border-radius: 10px;
+        border-radius: 10px;
+}
+
+
+body{
+    margin-left: 340px;
+    margin-right: 440px;
+    padding: 2px;
+    color:white;
+    font-family: 'Quicksand', sans-serif;
+    background-color:#E4D2C8;
+}
+
+.title {
+    font-family: 'Tilt Warp', cursive;
+    font-size: 60px;
+    margin-bottom: 60px;
+}
+
+.box-regist {
+    padding: 30px;
+    color:white;
+	background-color:#C3AEA5; 
+}
+
+.box-pets {
+    color:white;
+	background-color:#A38C89;
+}
+
+.box-calif {
+    color:white;
+	background-color:#8D747D;
+}
+
+.box-prim {
+    color:white;
+	background-color:#715E66;
+}
+
+.box-form {
+    color:white;
+	background-color:#674B57;
+}
+
+a:link{
+    font-weight: bold;
+    color: white;
+}
+
+a:visited{
+    color:#C3AEA5;
+}
+
+a:hover{
+    background-color:#8D747D;
+}
+
